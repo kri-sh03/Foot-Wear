@@ -1,0 +1,121 @@
+1	How many employees are there in total?
+2	What is the name of the employee with ID 3?
+3	What job does the employee with ID 7 have?
+4	In which department does Alice work?
+5	How many departments are there in total?
+6	What is the hire date of Bob?
+7	What is the annual salary of Henry?
+8	Who is the manager of the Finance department?
+9	How many designers are there in the company?
+10	What is the salary of Kevin?
+11	How many employees were hired in 2022?
+12	What is the total annual salary expense for the company?
+13	Who is the highest-paid employee?
+14	What is the average salary of all employees?
+15	How many employees work in the Marketing department?
+16	Who is the most recently hired employee?
+17	How many employees have a salary higher than 5000?
+18	What is the average annual salary in the IT department?
+19	Who is the employee with the lowest salary?
+20	How many employees have a hire date in 2020?
+21	What is the total salary expense for the Finance department?
+22	Who is the manager of the Marketing department?
+23	How many developers are there in the company?
+24	Who is the employee with the highest annual salary?
+25	What is the hire date of Laura?
+26	How many managers are there in the company?
+27	What is the total salary expense for the IT department?
+28	Who is the employee with ID 9?
+29	How many employees have a hire date in 2023?
+30	What is the total annual salary for the Marketing department?
+31	Who is the manager of the IT department?
+32	How many analysts are there in the company?
+33	What is the total annual salary for the Finance department?
+34	Who is the employee with ID 12?
+35	How many employees have a hire date in 2021?
+36	What is the total annual salary for the IT department?
+37	Who is the employee with ID 5?
+38	How many HR managers are there in the company?
+39	What is the total salary expense for the Marketing department?
+40	Who is the employee with ID 6?
+41	How many employees have a hire date in 2024?
+42	What is the total salary expense for the Finance department?
+43	Who is the employee with ID 8?
+44	How many salespeople are there in the company?
+45	What is the total annual salary for the Marketing department?
+46	Who is the employee with ID 11?
+47	How many employees have a hire date in 2020?
+48	What is the total annual salary for the Finance department?
+49	Who is the employee with ID 4?
+50	How many managers are there in the Marketing department?
+51	What is the total salary expense for the IT department?
+52	Who is the employee with ID 10?
+53	How many employees have a hire date in 2022?
+54	What is the total annual salary for the Marketing department?
+55	Who is the employee with ID 1?
+56	How many developers are there in the Finance department?
+57	What is the total salary expense for the IT department?
+58	Who is the employee with ID 3?
+59	How many employees have a hire date in 2023?
+60	What is the total annual salary for the Finance department?
+61	Who is the employee with ID 7?
+62	How many accountants are there in the company?
+63	What is the total salary expense for the Marketing department?
+64	Who is the employee with ID 9?
+65	How many employees have a hire date in 2021?
+66	What is the total annual salary for the Finance department?
+67	Who is the employee with ID 6?
+68	How many employees have a hire date in 2024?
+69	What is the total salary expense for the Finance department?
+70	Who is the employee with ID 8?
+71	How many salespeople are there in the company?
+72	What is the total annual salary for the Marketing department?
+73	Who is the employee with ID 11?
+74	How many employees have a hire date in 2020?
+75	What is the total annual salary for the Finance department?
+76	Who is the employee with ID 4?
+77	How many managers are there in the Marketing department?
+78	What is the total salary expense for the IT department?
+79	Who is the employee with ID 10?
+80	How many employees have a hire date in 2022?
+81	What is the total annual salary for the Marketing department?
+82	Who is the employee with ID 1?
+83	How many developers are there in the Finance department?
+84	What is the total salary expense for the IT department?
+85	Who is the employee with ID 3?
+86	How many employees have a hire date in 2023?
+87	What is the total annual salary for the Finance department?
+88	Who is the employee with ID 7?
+89	How many accountants are there in the company?
+90	What is the total salary expense for the Marketing department?
+91	Who is the employee with ID 9?
+92	How many employees have a hire date in 2021?
+93	What is the total annual salary for the Finance department?
+94	Who is the employee with ID 6?
+95	How many employees have a hire date in 2024?
+96	What is the total salary expense for the Finance department?
+97	Who is the employee with ID 8?
+98	How many salespeople are there in the company?
+99	What is the total annual salary for the Marketing department?
+100	Who is the employee with ID 11?
+101	What is the total annual salary expense for each department?
+102	Which department has the highest total annual salary expense?
+103	Who is the highest-paid employee in each department?
+104	How many employees are there in each department?
+105	Which department has the highest number of employees?
+106	What is the average salary for each job title?
+107	Which job title has the highest average salary?
+108	How many employees have a salary above the average salary for their respective job titles?
+109	What is the total annual salary expense for employees hired in each year?
+110	Which year had the highest total annual salary expense for hires?
+111	How many employees were hired in each year?
+112	What is the average salary for employees hired in each year?
+113	Which year had the highest average salary for hires?
+114	How many employees have a hire date before 2022 in each department?
+115	Which department has the highest number of employees hired before 2022?
+116	What is the average salary for employees hired before 2022 in each department?
+117	Which department has the highest average salary for employees hired before 2022?
+118	How many employees have a hire date after 2022 in each department?
+119	Which department has the highest number of employees hired after 2022?
+120	What is the average salary for employees hired after 2022 in each department?
+
